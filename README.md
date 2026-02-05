@@ -1,6 +1,8 @@
 # Cred-CardSpreadAnimation
 Mimics the credit card spread animation from the CRED App.
 
+Here's the medium article explaining the same in-depth: [Link](https://medium.com/@darshandodia/why-creds-ios-card-animation-feels-so-good-0655d97d5872)
+
 ---
 
 # SwiftUI Card Deck Animation 💳✨
